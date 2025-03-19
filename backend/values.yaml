@@ -1,0 +1,4 @@
+configmap:
+  DB_HOST: mysql
+deploymnet:
+  imageVersion: 1.0.0
